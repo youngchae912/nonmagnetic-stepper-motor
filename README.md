@@ -13,5 +13,5 @@ than 80% reduction without compromising the measurement integrity. The uncertain
 of the magnetic field measurement also improved by increasing the number of
 readings from the Hall sensor without a significant increase in measurement time.
 
-Here is an [website](https://imyoungchae.github.io/nonmagnetic-stepper-motor/).
+Here is an [website](https://youngchae912.github.io/nonmagnetic-stepper-motor/).
 
