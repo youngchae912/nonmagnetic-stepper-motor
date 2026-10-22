@@ -4,7 +4,7 @@ permalink: /
 
 title: "Automated measurement of magnetic field uniformity in Helmholtz coils<br>using a nonmagnetic stepper motor"
 authors:
-  - Young-Chae Son¹†, Sung-Jung Joo²†, Po-Gyu Park², Changjin Yun³, Soo-Chul Lim¹* and Hyung-Kew Lee²*
+  - '<a href="https://youngchae912.github.io/">Young-Chae Son</a>¹†, Sung-Jung Joo²†, Po-Gyu Park², Changjin Yun³, Soo-Chul Lim¹* and Hyung-Kew Lee²*'
 affiliations:
   - ¹ Dongguk University, ² KRISS, ³ KOREA University
 ---
